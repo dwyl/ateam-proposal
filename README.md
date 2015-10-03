@@ -3,18 +3,15 @@
 ## Contents Guide
 + [What?](#what)
 + [Why?](#why)
-+ [Who?](#who)
 
 + [Overview](#overview)
-+ Our key values
++ [Our key values](#our-values)
 + [Responsibilities](#responsibilities) 
-+ Next 3 months
-
 + **Financials**
-  + Developers
-  + Founders & Coders
-  
-+ [**FAQ**](#faq)
+  + [Developers](#developers)
+  + [Founders & Coders](#founders-&-coders)
++ [Next steps](#next-steps)
++ [FAQ](#faq)
 
 
 ## Why
@@ -126,17 +123,39 @@ Ultimately we value helping everyone we come into contact with (and complete str
   + Social media
   + Continuous testing and metric analysis for all the above
 
-## Next 3 months
-
 ## Financials
-+ Commission structure for bringing in clients and projects will exist and is one of the things that needs to be researched in the next month
+
+### Developers
++ All developers start on a £120 day rate (equates to £15 an hour for 8 hour days)
++ Commission for Founders & Coders _does not_ come out of developers' day rate
++ Within 4 months, developers will undergo a **peer led** day rate review
+
++ Commission and structure for bringing in clients and projects will exist and is one of the things that needs to be [researched in the coming month](#next-steps)
+
+### Founders & Coders
++ If alumni prefer to be placed directly with employers and this is done through the new organisation, there will be a commission going to F&C - the amount is to be agreed as part of the [next steps](#next-steps)
+
+For **freelance projects**:
++ F&C will receive 10% of the _charge out rate_ (not the developer day rate) for all alumni working on freelance projects through the new organisation
++ Calculations suggest **F&C will break even as soon as there are just 7 developers working on projects**
++ Calculations based on:
+  + Developers working 80% of the year (to provide a conservative estimate and allow for holidays/illnesses)
+  + £250 daily charge-out rate
+  + Costs of £3000 per month (currently they are around £2700 per month for F&C London)
 
 
-## What people value
-+ Areas of responsibility/accountability
-+ Access to the client
-+ Freedom to pursue their own freelance work too 
-+ Constant learning
+
+## Next steps
+First, F&C must vote on this proposal.
+
+If it goes ahead, we would need to bring in 1 full time person at market rate for at least 1 month to help with:
++ Research on clients, organisational models and the many open questions that will come up in the coming days/weeks such as 'What is the best CRM system to use or should we build one ourselves?'
++ Creating a solid foundation of processes and tools
++ Code necessary open source tools with us to be used in projects
++ Investigate and confirm/disproove any assumptions made
++ And all the other setup tasks we will encounter!
+
+This will provide a different point of view but crucially also allow [@nelsonic] and [@iteles] to start speaking to people and find work that is required in the immediate term.
 
 ## FAQs
 **Q:** How will the affect F&C's responsibilities and dynamic?
