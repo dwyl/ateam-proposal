@@ -42,7 +42,59 @@ For more, see [responsibilities](#responsibilities).
 
 
 # Proposal
+## Overview
+3 avenues
 
+
+## Our key values
+
+
+## Responsibilities 
+**Freelancing**:
++ Develop F&C's freelance offering
++ Find and speak to potential clients about projects F&C could work with them on
++ Guide project conversations to ensure realistic scope and expectations
++ Manage client relationships (before, during and between projects)
++ Project management throughout the project (multiple projects in parallel)
++ Client management throughout the project (multiple projects in parallel)
+  + _Note: This does not mean developers will not interact with clients, it means we will intervene to stop constant interruptions_
++ Regular code quality reviews 
++ Ensure project lookbacks happen and _lessons are carried through to other projects_ not lost in the ether
++ Ensure shared learning and reuse of code
+
+**Mentorship**:
++ Ensure goals for each developer are known and that they take steps towards reaching them with every project
++ Always bring students into client conversations to learn how to speak to clients, what to expect and how to respond 
++ Aim for people to work on projects that they want to work on and fit with their personal goals
++ Help direct developers' learning when advice is needed/requested
++ Regular individual catch-ups to expose concerns/potential improvements/occasions to celebrate
++ Implement a continuous feedback loop
++ Technical mentorship through code reviews
+
+**Others:**
++ Maintain F&C's existing and future relationships with employers (those who take on F&C students as permanent employees)
++ Find employment for students who don’t want to be freelancers
++ Develop and run a corporate training offering
+
+**Admin**
+  + Financial admin (raising invoices, chasing them, paying devs & contributors, HMRC)
+  + Contract admin (between client & company and between company and developers)
+  + All project management admin
+  + Fielding enquiry emails
+  + Fielding any commercial F&C emails
+  + Keeping CRM system perfectly up to date
+  + Continuously updating readmes and externally facing info
+  + Office running admin (stationery, manning phones, ordering fruit, updating calendars, etc)
+  + Organise extra training for developers where needed/possible	
+  
+**Inbound marketing** 
+  + Creating & refining site
+  + Writing blog posts
+  + Editing and maintaining blog
+  + Social media
+  + Continuous testing and metric analysis for all the above
+
+## Next 3 months
 
 + People will continue to have multiple choices
 
@@ -51,6 +103,14 @@ For more, see [responsibilities](#responsibilities).
 + Access to the client
 + Freedom to pursue their own freelance work too 
 + Constant learning
+
+## FAQs
+**Q:** What if I find a piece of freelance work by myself? Do I need to bring it to this new company?
+
+**Q:** What about if I find a piece of work and I need a team of developers from F&C? Do I have to bring it to this new company?
+
+**Q:** What if a client wants me (as an individual) to do a piece of non-related work for them outside of F&C after I met them through an F&C freelance project?
+
 
 [@nelsonic]:https://github.com/nelsonic
 [@iteles]:https://github.com/iteles
