@@ -5,23 +5,24 @@
 + [Why?](#why)
 + [Who?](#who)
 
-+ Overview
++ [Overview](#overview)
 + Our key values
-+ Responsibilities 
++ [Responsibilities](#responsibilities) 
 + Next 3 months
 
 + **Financials**
-  + For developers
-  + For Founders & Coders
+  + Developers
+  + Founders & Coders
   
-+ **FAQ**
++ [**FAQ**](#faq)
 
 
 ## Why
-Founders & Coders (F&C) alumni have expressed a **_desire_ to freelance through F&C** after the course finishes but historically this has been **problematic as there is no one dedicated full time to**:
-  + **Finding freelance projects** to be undertaken, leading to a lot of uncertainty for developers and big gaps between project
+Founders & Coders (F&C) alumni have expressed a **_desire_ to freelance through F&C** after the course finishes but _historically_ this has been **problematic as there is no one dedicated full time to**:
+  + **Finding freelance projects** to be undertaken, leading to a lot of _uncertainty for developers and big gaps between projects_
   + **Providing project oversight, removing interruptions/blockers and managing the client**, leading to developers having to wear too many hats (Hugh did this for a while and F&C alumni considered his position essential) 
   + Undertaking regular code reviews, ensuring the project is going in the right direction and **vouching for the quality of the code**
+  + **Getting the word out about F&C and its offerings**, leading to the majority of this weight falling on the shoulders of 1 or 2 people who had to try to find 'free' time to do this
 
 Given the lack of resources to bring on such a person or team (and given no one in the space offered to take this on), over the summer of 2015 it was **proposed that F&C move to just help alumni find external employment**.   
 This was debated by the employment sub-group and it was decided that this was also **problematic and not in the best long term interest of the school** if it could be avoided.
@@ -30,7 +31,7 @@ This was debated by the employment sub-group and it was decided that this was al
   
   
 ## What?
-A proposal for setting up a new company, run by [@nelsonic] and [@iteles] to provide interesting and targeted freelance work (with oversight and mentorship) for F&C alumni.
+A proposal for setting up a new **organisation**, run by [@nelsonic] and [@iteles] to provide interesting and targeted freelance work (with oversight and mentorship) for F&C alumni.
 For more, see [responsibilities](#responsibilities).
 
 > This company will be developed **fully open source** and completely transparently so as to create a **replicable** model for **making Founders & Coders sustainable**.
@@ -43,11 +44,39 @@ For more, see [responsibilities](#responsibilities).
 
 # Proposal
 ## Overview
-3 avenues
+After the 16 week course, students have a number of options:
++ Start their own project/adventure
++ Work on freelance projects of their own accord
++ Work on freelance projects through F&C
++ Find full time employment
+
+**We believe all of these can peacefully co-exist.** 
+
+This proposes that a **new organisation** is formed - run by [@nelsonic] and [@iteles] in the immediate term - which will take on these last two, particularly concentrating on **finding and managing the running of freelance projects for F&C graduates**.    
+_For more on the reasons why this has come about, read the ['Why?' section](#why) above and for more on the specific responsibilities of the organisation, read the ['Responsibilities' section](#responsibilities) below._
+
+> The aim is to create a way to simultaneously **make F&C sustainable** as a project, whilst still maintaining its _replicability_ and providing alumni with a _continued learning curve_ where they are in essence **paid to learn** after the 16 week course is over.
+
+Calculations based on developers working 80% of the year (to provide a conservative estimate) suggest that at current cost levels (£2700 per month rounded up to £3000), F&C will break even as soon as there are just 7 developers working on projects.   
+_For more on the financials, read the ['Financials' section](#developers) below._
 
 
-## Our key values
+## Our Values
+Since we started _dwyl_, we've had a [pretty clear manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md) that explains what we believe in.    
+Worth highlighting here are:
++ **Open source.** We're aware this may seem crazy but we want the whole organisation to be open source, from the setup and the processes, questions raised and solutions found. We always [make](https://en.wikipedia.org/wiki/Maker_culture) 'out in the open'. We hope this **encourages everyone to contribute, ask and answer questions**.
 
++ **_Full_ transparency**. Transparent in our thought processes, in our decisions, in our processes and in everything, right from the [get go](http://www.urbandictionary.com/define.php?term=get+go). 
+
++ **_Continuous_ learning**. Every good developer realises that to be _truly good_ they can never stop learning. This isn't just about learning code; it's about going along to client meetings and estimating tasks, proposing projects and learning all the things you want to learn. We do it for ourselves and we want to set up an environment that provides opportunities for everyone to put in the time to do it too.
+
++ **Keep it simple**. No unnecessary over-complications please.
+
++ **Accountability for the work you do**. We're here to _help_ people do their best work for the project **team** they choose to be in.
+
++ **Treating others the way you would like to be treated**. 
+
+Ultimately we value helping everyone we come into contact with (and complete strangers who find us on the internet) learn and grow.
 
 ## Responsibilities 
 **Freelancing**:
@@ -55,12 +84,14 @@ For more, see [responsibilities](#responsibilities).
 + Find and speak to potential clients about projects F&C could work with them on
 + Guide project conversations to ensure realistic scope and expectations
 + Manage client relationships (before, during and between projects)
-+ Project management throughout the project (multiple projects in parallel)
++ [Scrum mastering](http://scrummethodology.com/the-scrummaster-role/) throughout the project (multiple projects in parallel)
 + Client management throughout the project (multiple projects in parallel)
   + _Note: This does not mean developers will not interact with clients, it means we will intervene to stop constant interruptions_
 + Regular code quality reviews 
 + Ensure project lookbacks happen and _lessons are carried through to other projects_ not lost in the ether
 + Ensure shared learning and reuse of code
++ Provide some guidance _during the MVPs_ in the last weeks of the course
+  + This helps improve the learning curve, provide some quality assurance, ensures the client relationship is not lost if that team decides to move on from F&C and also helps us get to know students before they start freelancing officially!
 
 **Mentorship**:
 + Ensure goals for each developer are known and that they take steps towards reaching them with every project
@@ -86,7 +117,8 @@ For more, see [responsibilities](#responsibilities).
   + Continuously updating readmes and externally facing info
   + Office running admin (stationery, manning phones, ordering fruit, updating calendars, etc)
   + Organise extra training for developers where needed/possible	
-  
+
+<img width=200px align="left" src="http://cdn1.hubspot.com/hub/53/Inbound-Methodology-Assets/methodology-venn-diagram.gif"/>  
 **Inbound marketing** 
   + Creating & refining site
   + Writing blog posts
@@ -96,7 +128,9 @@ For more, see [responsibilities](#responsibilities).
 
 ## Next 3 months
 
-+ People will continue to have multiple choices
+## Financials
++ Commission structure for bringing in clients and projects will exist and is one of the things that needs to be researched in the next month
+
 
 ## What people value
 + Areas of responsibility/accountability
@@ -105,6 +139,10 @@ For more, see [responsibilities](#responsibilities).
 + Constant learning
 
 ## FAQs
+**Q:** How will the affect F&C's responsibilities and dynamic?
+
+**Q:** What will the interaction be between this organisation and F&C?
+
 **Q:** What if I find a piece of freelance work by myself? Do I need to bring it to this new company?
 
 **Q:** What about if I find a piece of work and I need a team of developers from F&C? Do I have to bring it to this new company?
