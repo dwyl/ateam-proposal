@@ -7,9 +7,10 @@
 + [Overview](#overview)
 + [Our key values](#our-values)
 + [Responsibilities](#responsibilities) 
++ [F&C student/alumni journey](#f--c-student-journey)
 + **Financials**
   + [Developers](#developers)
-  + [Founders & Coders](#founders-&-coders)
+  + [Founders & Coders](#founders--coders)
 + [Next steps](#next-steps)
 + [FAQ](#faq)
 
@@ -122,6 +123,9 @@ Ultimately we value helping everyone we come into contact with (and complete str
   + Editing and maintaining blog
   + Social media
   + Continuous testing and metric analysis for all the above
+  
+## F&C Student journey
+  <img width="1579" alt="fac-student-alumni-journey" src="https://cloud.githubusercontent.com/assets/4185328/10269399/79c6be2c-6ace-11e5-94f7-3fd5bc894352.png">
 
 ## Financials
 
@@ -138,11 +142,14 @@ Ultimately we value helping everyone we come into contact with (and complete str
 For **freelance projects**:
 + F&C will receive 10% of the _charge out rate_ (not the developer day rate) for all alumni working on freelance projects through the new organisation
 + Calculations suggest **F&C will break even as soon as there are just 7 developers working on projects**
-+ Calculations based on:
++ Calculations for the diagrams below based on:
   + Developers working 80% of the year (to provide a conservative estimate and allow for holidays/illnesses)
   + £250 daily charge-out rate
   + Costs of £3000 per month (currently they are around £2700 per month for F&C London)
 
+<img width="872" alt="fc-breakeven-47-weeks-of-work-a-year" src="https://cloud.githubusercontent.com/assets/4185328/10269373/aee65690-6acd-11e5-848c-788b133696eb.png">
+
+<img width="879" alt="fc-breakeven-41-weeks-of-work-a-year" src="https://cloud.githubusercontent.com/assets/4185328/10269376/c3e44d0e-6acd-11e5-9613-1c062f0f96ef.png">
 
 
 ## Next steps
