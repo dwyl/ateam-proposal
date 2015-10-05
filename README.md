@@ -224,47 +224,6 @@ read the ['Financials' section](#developers) below.*
 
 + Commission and structure for bringing in clients and projects will exist and is one of the things that needs to be [researched in the coming month](#next-steps)
 
-#### Developer Income Example
-
-There are [**253**](http://www.work-day.co.uk/workingdays_holidays_2015.htm)
-*working days* in a year; everyone should aim to take off
-at *least* **25 days holiday**.
-
-That leaves **228** working days.
-So the *initial* annual income would be **£27,360**,  
-***however*** given the be *peer-led rate reviews* every 4 months
-we *expect* rates to be  
-*higher* for people who stay for 4, 8 & 12 months.
-We *expect* everyone to have *doubled*  
-their pay within 12 months - dependent
-on projects turnover - so annual income  
-*could* be ***above market rates***.
-
-Consider the following scenario:
-First let's divide the year into 3 equal parts;
-**76 days** *per* "**Tertile**".
-Lets assume that a developer's peers deem them
-to be ***exceeding expectations*** both in technical ability
-and "***delighting the customer***" at each of the first two
-peer-feedback sessions.
-
-This will mean:
-
-+ *First 4 months* rate is set at £15/h     --> 76 days x £140/day = £9,120
-+ After 4 Months rate increases to £17.50/h --> 76 days x £140/day = £10,640
-+ After 8 Months rate increases to £20/h --> 76 days x £160/day = £12,160
-+ Total: **£31,920** (*annual*)<sup>1</sup>
-
-We *urge* people ***not*** to focus on the cash amount.
-Especially since, if we succeed together
-(*in delivering great project results*)
-the peer-determined rates could be *considerably* more favorable.
-
-But to give you an idea, [**IBM**'s *Starting Salary* for a graduate is £29,000](https://targetjobs.co.uk/careers-advice/choosing-an-employer/320357-which-graduate-career-offers-the-best-pay)  
-and they don't do anything *resembling* the kind of *interesting* & *creative*
-*full-service/stack* work we expect to be doing!
-
-
 
 ### Founders & Coders
 
@@ -310,6 +269,47 @@ of developers from F&C? Do I have to bring it to this new company?
 **Q:** What if a client wants me (as an individual) to do a piece of
 non-related work for them outside of F&C after I met them through
 an F&C freelance project?
+
+#### Q: What can people expect to get *paid*? (*expanded*)
+
+#### A: Developer Income Example (*illustrative*)
+
+There are [**253**](http://www.work-day.co.uk/workingdays_holidays_2015.htm)
+*working days* in a year; everyone should aim to take off
+at *least* **25 days holiday**.
+
+That leaves **228** working days.
+So the *initial* annual income would be 228 days x £120 = **£27,360**,  
+***however*** given the be *peer-led rate reviews* every 4 months
+we *expect* rates to be  
+*higher* for people who stay for 4, 8 & 12 months.
+We *expect* ***everyone*** to earn ***market rates***.
+
+Consider the following scenario:
+First let's divide the year into 3 equal parts;
+**76 days** *per* "**Tertile**".
+Lets assume that a developer's peers deem them
+to be ***exceeding expectations*** both in technical ability
+and "***delighting the customer***" at each of the first two
+peer-feedback sessions.
+
+This will mean:
+
++ *First 4 months* rate is set at £15/h     --> 76 days x £140/day = £9,120
++ After 4 Months rate increases to £17.50/h --> 76 days x £140/day = £10,640
++ After 8 Months rate increases to £20/h --> 76 days x £160/day = £12,160
++ Total: **£31,920** (*annual*)<sup>1</sup>
+
+We *urge* people ***not*** to focus on the cash amount.
+Especially since, if we succeed together
+(*in delivering great project results*)
+the peer-determined rates could be *considerably* more favorable.
+
+But to give you an idea, [**IBM**'s *Starting Salary* for a graduate is £29,000](https://targetjobs.co.uk/careers-advice/choosing-an-employer/320357-which-graduate-career-offers-the-best-pay)  
+and they don't do anything *resembling* the kind of *interesting* & *creative*
+*full-service/stack* work we expect to be doing!
+
+
 
 
 [@nelsonic]:https://github.com/nelsonic
