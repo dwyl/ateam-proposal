@@ -4,10 +4,11 @@
 + [What?](#what)
 + [Why?](#why)
 
+
 + [Overview](#overview)
 + [Our key values](#our-values)
 + [Responsibilities](#responsibilities) 
-+ [F&C student/alumni journey](#f--c-student-journey)
++ [F&C student/alumni journey](#fc-student-journey)
 + **Financials**
   + [Developers](#developers)
   + [Founders & Coders](#founders--coders)
@@ -116,8 +117,8 @@ Ultimately we value helping everyone we come into contact with (and complete str
   + Office running admin (stationery, manning phones, ordering fruit, updating calendars, etc)
   + Organise extra training for developers where needed/possible	
 
-<img width=200px align="left" src="http://cdn1.hubspot.com/hub/53/Inbound-Methodology-Assets/methodology-venn-diagram.gif"/>  
 **Inbound marketing** 
+<img width=200px align="right" src="http://cdn1.hubspot.com/hub/53/Inbound-Methodology-Assets/methodology-venn-diagram.gif"/>  
   + Creating & refining site
   + Writing blog posts
   + Editing and maintaining blog
