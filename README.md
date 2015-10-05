@@ -211,7 +211,11 @@ read the ['Financials' section](#developers) below.*
 
 ### Developers
 
-#### Q: What can developers expect to get *paid*?
+#### Q: What will people learn?
+
+> Simple answer: *Everything* you need to be a top-rate freelancer or start your own company.
+
+#### Q: What can people expect to get *paid*?
 
 + All developers will start on **£120** per day
   (equates to £15 an hour for 8 hour days.)
@@ -249,7 +253,17 @@ This will mean:
 + *First 4 months* rate is set at £15/h     --> 76 days x £140/day = £9,120
 + After 4 Months rate increases to £17.50/h --> 76 days x £140/day = £10,640
 + After 8 Months rate increases to £20/h --> 76 days x £160/day = £12,160
-+ Total: **£31,920** (*annual*)
++ Total: **£31,920** (*annual*)<sup>1</sup>
+
+We *urge* people ***not*** to focus on the cash amount.
+Especially since, if we succeed together
+(*in delivering great project results*)
+the peer-determined rates could be *considerably* more favorable.
+
+But to give you an idea, [**IBM**'s *Starting Salary* for a graduate is £29,000](https://targetjobs.co.uk/careers-advice/choosing-an-employer/320357-which-graduate-career-offers-the-best-pay)  
+and they don't do anything *resembling* the kind of *interesting* & *creative*
+*full-service/stack* work we expect to be doing!
+
 
 
 ### Founders & Coders
@@ -300,3 +314,8 @@ an F&C freelance project?
 
 [@nelsonic]:https://github.com/nelsonic
 [@iteles]:https://github.com/iteles
+
+### Notes:
+<sup>1</sup>We *cannot* guarantee developer income beyond the initial 4 month
+term. However provided the person shows proactivity we expect to have
+enough work for 10+ people for 12 months.
