@@ -206,37 +206,70 @@ there are **7 developers** working on projects.
 *For more on the financials,
 read the ['Financials' section](#developers) below.*
 
+<img width="879" alt="fc-breakeven-41-weeks-of-work-a-year" src="https://cloud.githubusercontent.com/assets/4185328/10269376/c3e44d0e-6acd-11e5-9613-1c062f0f96ef.png">
+
 
 ### Developers
 
-Our aim is that:
+#### Q: What can developers expect to get *paid*?
 
-+ All developers start on **£120** per day (equates to £15 an hour for 8 hour days)
++ All developers will start on **£120** per day
+  (equates to £15 an hour for 8 hour days.)
 + Commission for Founders & Coders *does not* come out of developers' day rate
 + Within 4 months, developers will undergo a **peer led** day rate review
 
 + Commission and structure for bringing in clients and projects will exist and is one of the things that needs to be [researched in the coming month](#next-steps)
 
+#### Developer Income Example
+
+There are [**253**](http://www.work-day.co.uk/workingdays_holidays_2015.htm)
+*working days* in a year; everyone should aim to take off
+at *least* **25 days holiday**.
+
+That leaves **228** working days.
+So the *initial* annual income would be **£27,360**,  
+***however*** given the be *peer-led rate reviews* every 4 months
+we *expect* rates to be  
+*higher* for people who stay for 4, 8 & 12 months.
+We *expect* everyone to have *doubled*  
+their pay within 12 months - dependent
+on projects turnover - so annual income  
+*could* be ***above market rates***.
+
+Consider the following scenario:
+First let's divide the year into 3 equal parts;
+**76 days** *per* "**Tertile**".
+Lets assume that a developer's peers deem them
+to be ***exceeding expectations*** both in technical ability
+and "***delighting the customer***" at each of the first two
+peer-feedback sessions.
+
+This will mean:
+
++ *First 4 months* rate is set at £15/h     --> 76 days x £140/day = £9,120
++ After 4 Months rate increases to £17.50/h --> 76 days x £140/day = £10,640
++ After 8 Months rate increases to £20/h --> 76 days x £160/day = £12,160
++ Total: **£31,920** (*annual*)
+
+
 ### Founders & Coders
 
-+ If alumni prefer to be placed directly with employers and this is done through the new organisation, there will be a commission going to F&C - the amount is to be agreed as part of the [next steps](#next-steps)
++ If people prefer to be placed directly with employers
+and this is done through the **comercial organisation**,  
+there will be a commission going to F&C -
+the amount is to be agreed as part of the [next steps](#next-steps)
 
 For **freelance projects**:
-+ F&C will receive 10% of the *charge out rate* (not the developer day rate) for all alumni working on freelance projects through the new organisation
-+ Calculations suggest **F&C will break even as soon as there are just 7 developers working on projects**
-+ Calculations for the diagrams below based on:
-  + Developers working 80% of the year (to provide a conservative estimate and allow for holidays/illnesses)
-  + £250 daily charge-out rate
-  + Costs of £3000 per month (currently they are around £2700 per month for F&C London)
 
-<img width="872" alt="fc-breakeven-47-weeks-of-work-a-year" src="https://cloud.githubusercontent.com/assets/4185328/10269373/aee65690-6acd-11e5-848c-788b133696eb.png">
-
-<img width="879" alt="fc-breakeven-41-weeks-of-work-a-year" src="https://cloud.githubusercontent.com/assets/4185328/10269376/c3e44d0e-6acd-11e5-9613-1c062f0f96ef.png">
++ F&C will receive 10% of the *charge out rate* (not the developer day rate)
+for all alumni working on freelance projects through the new organisation
++ Calculations suggest **F&C will break even as soon as there are just
+7 developers working on projects**
 
 
 ## Next steps
 
-First, F&C *people* must vote on this proposal.
+*First*, F&C *people* must vote on this proposal.
 
 If it goes ahead, we would need to bring in 1 full time person at market rate for at least 1 month to help with:
 + Research on clients, organisational models and the many open questions that will come up in the coming days/weeks such as 'What is the best CRM system to use or should we build one ourselves?'
