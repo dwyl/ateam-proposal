@@ -97,6 +97,8 @@ while doing ***interesting and meaningful work*** after the 16 week course.
 
 ## Our Values
 
+![golden-rule-way](https://cloud.githubusercontent.com/assets/194400/9929013/f3825e66-5d21-11e5-98eb-0d51b9094368.jpg)
+
 Since we started [**dwyl**](https://github.com/dwyl),
 we've had a
 [***clear manifesto***](https://github.com/dwyl/start-here/blob/master/manifesto.md)
@@ -111,23 +113,39 @@ We're aware this is "***unconventional***", its *deliberate*.
 + ***Full transparency***. Transparent in our thought processes,
 in our decisions, in our processes and in everything, right from the [*start*](https://github.com/dwyl/start-here).
 
-+ **_Continuous_ learning**. Every good developer realises that to be _truly good_ they can never stop learning. This isn't just about learning code; it's about going along to client meetings and estimating tasks, proposing projects and learning all the things you want to learn. We do it for ourselves and we want to set up an environment that provides opportunities for everyone to put in the time to do it too.
++ ***Continuous learning***. ~~good~~ ***great*** ~~developers~~ ***people***
+realize that in the pursuit of
+[*mastery*](https://en.wikipedia.org/wiki/Mastery_learning) (*in any field*)
+they can ***never stop learning***.
+This isn't *just* about learning code; being *technically competent* is
+*essential* but *no longer "enough"*.
+It's about going along to client meetings and estimating tasks,
+proposing projects and learning all the things you want to learn.
+We do it for ourselves and we want to set up an environment that
+provides opportunities for everyone to put in the time to do it too.
 
-+ **Keep it simple**. No unnecessary over-complications please.
++ **Keep it simple**. where ever *possible*, ***eliminate complexity***.
 
-+ **Accountability for the work you do**. We're here to _help_ people do their best work for the project **team** they choose to be in.
++ **Accountability for the work you do**. We're here to *help* people
+do their best work for the project **team** they choose to be in.
 
-+ **Treating others the way you would like to be treated**.
++ **Treating others the way you would like to be treated**. In *everything* we do, we follow [**The Golden Rule**](https://en.wikipedia.org/wiki/Golden_Rule)
 
-Ultimately we value helping everyone we come into contact with (and complete strangers who find us on the internet) learn and grow.
+
+
+Ultimately we value helping everyone we come into contact with
+(and complete strangers who find us on the internet) learn and grow.
 
 ## Responsibilities
-**Freelancing**:
+
+### Freelancing
+
 + Develop F&C's freelance offering
 + Find and speak to potential clients about projects F&C could work with them on
 + Guide project conversations to ensure realistic scope and expectations
 + Manage client relationships (before, during and between projects)
-+ [Scrum mastering](http://scrummethodology.com/the-scrummaster-role/) throughout the project (multiple projects in parallel)
++ ~~[Scrum mastering](http://scrummethodology.com/the-scrummaster-role/)~~
+*Coaching* throughout the project (multiple projects in parallel)
 + Client management throughout the project (multiple projects in parallel)
   + _Note: This does not mean developers will not interact with clients, it means we will intervene to stop constant interruptions_
 + Regular code quality reviews
@@ -136,14 +154,19 @@ Ultimately we value helping everyone we come into contact with (and complete str
 + Provide some guidance _during the MVPs_ in the last weeks of the course
   + This helps improve the learning curve, provide some quality assurance, ensures the client relationship is not lost if that team decides to move on from F&C and also helps us get to know students before they start freelancing officially!
 
-**Mentorship**:
-+ Ensure goals for each developer are known and that they take steps towards reaching them with every project
-+ Always bring students into client conversations to learn how to speak to clients, what to expect and how to respond
-+ Aim for people to work on projects that they want to work on and fit with their personal goals
+### Mentoring
+
++ Ensure each developer has ***written*** (*personal*) ***goals*** and that they
+take steps towards reaching them with every project.
++ Always bring students into client conversations to learn how to
+interact with clients, what to expect and how to respond.
++ Aim for people to work on projects that they want to work
+on and fit with their personal goals
 + Help direct developers' learning when advice is needed/requested
-+ Regular individual catch-ups to expose concerns/potential improvements/occasions to celebrate
-+ Implement a continuous feedback loop
-+ Technical mentorship through code reviews
++ Regular individual catch-ups to *understand* how they feel,
+concerns/potential improvements and celebrate achievements.
++ Implement a ***continuous feedback loop***
++ Technical mentorship through code reviews.
 
 **Others:**
 + Maintain F&C's existing and future relationships with employers (those who take on F&C students as permanent employees)
@@ -184,17 +207,21 @@ read the ['Financials' section](#developers) below.*
 
 
 ### Developers
-+ All developers start on a £120 day rate (equates to £15 an hour for 8 hour days)
-+ Commission for Founders & Coders _does not_ come out of developers' day rate
+
+Our aim is that:
+
++ All developers start on **£120** per day (equates to £15 an hour for 8 hour days)
++ Commission for Founders & Coders *does not* come out of developers' day rate
 + Within 4 months, developers will undergo a **peer led** day rate review
 
 + Commission and structure for bringing in clients and projects will exist and is one of the things that needs to be [researched in the coming month](#next-steps)
 
 ### Founders & Coders
+
 + If alumni prefer to be placed directly with employers and this is done through the new organisation, there will be a commission going to F&C - the amount is to be agreed as part of the [next steps](#next-steps)
 
 For **freelance projects**:
-+ F&C will receive 10% of the _charge out rate_ (not the developer day rate) for all alumni working on freelance projects through the new organisation
++ F&C will receive 10% of the *charge out rate* (not the developer day rate) for all alumni working on freelance projects through the new organisation
 + Calculations suggest **F&C will break even as soon as there are just 7 developers working on projects**
 + Calculations for the diagrams below based on:
   + Developers working 80% of the year (to provide a conservative estimate and allow for holidays/illnesses)
@@ -207,7 +234,8 @@ For **freelance projects**:
 
 
 ## Next steps
-First, F&C must vote on this proposal.
+
+First, F&C *people* must vote on this proposal.
 
 If it goes ahead, we would need to bring in 1 full time person at market rate for at least 1 month to help with:
 + Research on clients, organisational models and the many open questions that will come up in the coming days/weeks such as 'What is the best CRM system to use or should we build one ourselves?'
@@ -216,18 +244,24 @@ If it goes ahead, we would need to bring in 1 full time person at market rate fo
 + Investigate and confirm/disproove any assumptions made
 + And all the other setup tasks we will encounter!
 
-This will provide a different point of view but crucially also allow [@nelsonic] and [@iteles] to start speaking to people and find work that is required in the immediate term.
+This will provide a different point of view but crucially also allow
+[@iteles] and [@nelsonic] to start speaking to people and find work
+that is required in the immediate term.
 
 ## FAQs
-**Q:** How will the affect F&C's responsibilities and dynamic?
+**Q:** How will the affect F&C's responsibilities
 
 **Q:** What will the interaction be between this organisation and F&C?
 
-**Q:** What if I find a piece of freelance work by myself? Do I need to bring it to this new company?
+**Q:** What if I find a piece of freelance work by myself?
+Do I need to bring it to this new company?
 
-**Q:** What about if I find a piece of work and I need a team of developers from F&C? Do I have to bring it to this new company?
+**Q:** What about if I find a piece of work and I need a team
+of developers from F&C? Do I have to bring it to this new company?
 
-**Q:** What if a client wants me (as an individual) to do a piece of non-related work for them outside of F&C after I met them through an F&C freelance project?
+**Q:** What if a client wants me (as an individual) to do a piece of
+non-related work for them outside of F&C after I met them through
+an F&C freelance project?
 
 
 [@nelsonic]:https://github.com/nelsonic
