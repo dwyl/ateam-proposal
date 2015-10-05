@@ -1,12 +1,11 @@
 # A-Team
 
 ## Contents Guide
-+ [What?](#what)
 + [Why?](#why)
-
++ [What?](#what)
 + [Overview](#overview)
 + [Our key values](#our-values)
-+ [Responsibilities](#responsibilities) 
++ [Responsibilities](#responsibilities)
 + [F&C student/alumni journey](#f--c-student-journey)
 + **Financials**
   + [Developers](#developers)
@@ -16,55 +15,101 @@
 
 
 ## Why
-Founders & Coders (F&C) alumni have expressed a **_desire_ to freelance through F&C** after the course finishes but _historically_ this has been **problematic as there is no one dedicated full time to**:
-  + **Finding freelance projects** to be undertaken, leading to a lot of _uncertainty for developers and big gaps between projects_
-  + **Providing project oversight, removing interruptions/blockers and managing the client**, leading to developers having to wear too many hats (Hugh did this for a while and F&C alumni considered his position essential) 
-  + Undertaking regular code reviews, ensuring the project is going in the right direction and **vouching for the quality of the code**
-  + **Getting the word out about F&C and its offerings**, leading to the majority of this weight falling on the shoulders of 1 or 2 people who had to try to find 'free' time to do this
 
-Given the lack of resources to bring on such a person or team (and given no one in the space offered to take this on), over the summer of 2015 it was **proposed that F&C move to just help alumni find external employment**.   
-This was debated by the employment sub-group and it was decided that this was also **problematic and not in the best long term interest of the school** if it could be avoided.
+[***Founders & Coders***](http://www.foundersandcoders.com/about/) (**F&C**)
+alumni have expressed a ***desire*** to ***continue their learning***
+**by freelancing** after the course finishes but *historically* this has been
+**problematic as there is no dedicated full time person/people to**:
+  + **Finding freelance projects** to be undertaken,
+  leading to a lot of *uncertainty for developers and big gaps between projects*
+  + **Providing project oversight, removing interruptions/blockers
+  and managing the client** (*expectations*), leading to developers having to
+  wear too many hats
+  ([*Hugh*](https://www.linkedin.com/pub/hugh-trueger/1a/696/8a8)
+  did this for a while and F&C3 alumni considered
+  his position *essential* to the success of their projects)
+  + Undertaking ***regular*** **code reviews**, ensuring the project is going in
+  the right direction and **vouching for the quality of the code**
+  + **Getting the word out about F&C and its offerings**, leading to the
+  majority of this weight falling on the shoulders of 1 or 2 people who
+  had to try to find 'free' time to do this
 
->A new solution is therefore required to these problems which would allow F&C to develop its stewardship of students after the 16 week course.
-  
-  
+Given the lack of resources to bring on such a person or team
+(and given no one in the space offered to take this on),
+over the summer of 2015 it was **proposed that F&C move to
+just help alumni find external employment**.   
+This was debated by the employment sub-group and it was decided
+that this was also **problematic and not in the best long term
+interest of the school** if it could be avoided.
+
+> A ***alternative solution*** is therefore ***required*** to these problems
+which will allow **F&C students/alumni** to ***continue learning*** (*by doing*)
+after the 16 week course while providing a ***sustainable income***
+to fund the mission of **F&C**.
+
+
 ## What?
-A proposal for setting up a new **organisation**, run by [@nelsonic] and [@iteles] to provide interesting and targeted freelance work (with oversight and mentorship) for F&C alumni.
+
+A proposal for setting up a **commercial organisation**,
+run by [@iteles] & [@nelsonic] to provide interesting
+and targeted project work (*with oversight and mentorship*) for F&C alumni.
 For more, see [responsibilities](#responsibilities).
 
-> This company will be developed **fully open source** and completely transparently so as to create a **replicable** model for **making Founders & Coders sustainable**.
+> The company will be developed **fully open source**
+> and ***completely transparent*** creating a ***replicable***
+> model for **making free learning sustainable**.
 
 **Stipulations imposed by F&C employment group:**
-+ This must be a separate company from Founders & Coders CIC, which will now focus solely on the school
-+ This company will and should sit in on F&C meetings but _not_ have the power to dictate what happens in the school
++ This must be a separate company from Founders & Coders CIC,
+so that F&C can focus solely on the ***mission***;
+Providing ***great technical learning***, ***free*** and ***open source***.
++ The company will and should sit in on F&C meetings but *not*
+have the power to dictate what happens in the school.
 
 
 
 # Proposal
+
 ## Overview
+
 After the 16 week course, students have a number of options:
-+ Start their own project/adventure
++ Start their own project/adventure (*with the support of their peers*)
 + Work on freelance projects of their own accord
 + Work on freelance projects through F&C
 + Find full time employment
 
-**We believe all of these can peacefully co-exist.** 
+**We believe all of these can co-exist.**
 
-This proposes that a **new organisation** is formed - run by [@nelsonic] and [@iteles] in the immediate term - which will take on these last two, particularly concentrating on **finding and managing the running of freelance projects for F&C graduates**.    
-_For more on the reasons why this has come about, read the ['Why?' section](#why) above and for more on the specific responsibilities of the organisation, read the ['Responsibilities' section](#responsibilities) below._
+This proposes that a ***commercial-focussed organisation*** is formed
+- run by [@nelsonic] and [@iteles] in the immediate term -
+which will take on these last two, particularly concentrating on
+**finding and managing the running of development projects for F&C graduates**.    
+*For more on the reasons why this has come about, read the
+['Why?' section](#why) above and for more on the
+specific responsibilities of the organisation,
+read the ['Responsibilities' section](#responsibilities) below.*
 
-> The aim is to create a way to simultaneously **make F&C sustainable** as a project, whilst still maintaining its _replicability_ and providing alumni with a _continued learning curve_ where they are in essence **paid to learn** after the 16 week course is over.
-
-Calculations based on developers working 80% of the year (to provide a conservative estimate) suggest that at current cost levels (£2700 per month rounded up to £3000), F&C will break even as soon as there are just 7 developers working on projects.   
-_For more on the financials, read the ['Financials' section](#developers) below._
+> The aim is to create a way to *simultaneously* **make F&C sustainable**
+as a project, while still maintaining its *replicability* and providing
+alumni with a *continued learning curve* where they ***learn-by-doing***
+while doing ***interesting and meaningful work*** after the 16 week course.
 
 
 ## Our Values
-Since we started _dwyl_, we've had a [pretty clear manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md) that explains what we believe in.    
-Worth highlighting here are:
-+ **Open source.** We're aware this may seem crazy but we want the whole organisation to be open source, from the setup and the processes, questions raised and solutions found. We always [make](https://en.wikipedia.org/wiki/Maker_culture) 'out in the open'. We hope this **encourages everyone to contribute, ask and answer questions**.
 
-+ **_Full_ transparency**. Transparent in our thought processes, in our decisions, in our processes and in everything, right from the [get go](http://www.urbandictionary.com/define.php?term=get+go). 
+Since we started [**dwyl**](https://github.com/dwyl),
+we've had a
+[***clear manifesto***](https://github.com/dwyl/start-here/blob/master/manifesto.md)
+that explains ***why*** we do what we do.  
+Worth highlighting here are:
++ **Open source.** We want ***every aspect*** of our organisation to be open source,
+from the setup and the processes, questions raised and solutions found.
+We always [make](https://en.wikipedia.org/wiki/Maker_culture) 'out in the open'.
+We hope this **encourages everyone to contribute, ask and answer questions**.
+We're aware this is "***unconventional***", its *deliberate*.
+
++ ***Full transparency***. Transparent in our thought processes,
+in our decisions, in our processes and in everything, right from the [*start*](https://github.com/dwyl/start-here).
 
 + **_Continuous_ learning**. Every good developer realises that to be _truly good_ they can never stop learning. This isn't just about learning code; it's about going along to client meetings and estimating tasks, proposing projects and learning all the things you want to learn. We do it for ourselves and we want to set up an environment that provides opportunities for everyone to put in the time to do it too.
 
@@ -72,11 +117,11 @@ Worth highlighting here are:
 
 + **Accountability for the work you do**. We're here to _help_ people do their best work for the project **team** they choose to be in.
 
-+ **Treating others the way you would like to be treated**. 
++ **Treating others the way you would like to be treated**.
 
 Ultimately we value helping everyone we come into contact with (and complete strangers who find us on the internet) learn and grow.
 
-## Responsibilities 
+## Responsibilities
 **Freelancing**:
 + Develop F&C's freelance offering
 + Find and speak to potential clients about projects F&C could work with them on
@@ -85,7 +130,7 @@ Ultimately we value helping everyone we come into contact with (and complete str
 + [Scrum mastering](http://scrummethodology.com/the-scrummaster-role/) throughout the project (multiple projects in parallel)
 + Client management throughout the project (multiple projects in parallel)
   + _Note: This does not mean developers will not interact with clients, it means we will intervene to stop constant interruptions_
-+ Regular code quality reviews 
++ Regular code quality reviews
 + Ensure project lookbacks happen and _lessons are carried through to other projects_ not lost in the ether
 + Ensure shared learning and reuse of code
 + Provide some guidance _during the MVPs_ in the last weeks of the course
@@ -93,7 +138,7 @@ Ultimately we value helping everyone we come into contact with (and complete str
 
 **Mentorship**:
 + Ensure goals for each developer are known and that they take steps towards reaching them with every project
-+ Always bring students into client conversations to learn how to speak to clients, what to expect and how to respond 
++ Always bring students into client conversations to learn how to speak to clients, what to expect and how to respond
 + Aim for people to work on projects that they want to work on and fit with their personal goals
 + Help direct developers' learning when advice is needed/requested
 + Regular individual catch-ups to expose concerns/potential improvements/occasions to celebrate
@@ -114,20 +159,29 @@ Ultimately we value helping everyone we come into contact with (and complete str
   + Keeping CRM system perfectly up to date
   + Continuously updating readmes and externally facing info
   + Office running admin (stationery, manning phones, ordering fruit, updating calendars, etc)
-  + Organise extra training for developers where needed/possible	
+  + Organise extra training for developers where needed/possible
 
 <img width=200px align="left" src="http://cdn1.hubspot.com/hub/53/Inbound-Methodology-Assets/methodology-venn-diagram.gif"/>  
-**Inbound marketing** 
+**Inbound marketing**
   + Creating & refining site
   + Writing blog posts
   + Editing and maintaining blog
   + Social media
   + Continuous testing and metric analysis for all the above
-  
+
 ## F&C Student journey
   <img width="1579" alt="fac-student-alumni-journey" src="https://cloud.githubusercontent.com/assets/4185328/10269399/79c6be2c-6ace-11e5-94f7-3fd5bc894352.png">
 
 ## Financials
+
+Calculations based on developers working 80% of the year
+(to provide a conservative estimate) suggest that at current
+cost levels (£2700 per month rounded up to £3000),
+F&C will receive enough income to break even as soon as
+there are **7 developers** working on projects.   
+*For more on the financials,
+read the ['Financials' section](#developers) below.*
+
 
 ### Developers
 + All developers start on a £120 day rate (equates to £15 an hour for 8 hour days)
