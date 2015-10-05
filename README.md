@@ -7,11 +7,10 @@
 + [Our key values](#our-values)
 + [Responsibilities](#responsibilities)
 + [F&C student/alumni journey](#fc-student-journey)
-+ **Financials**
++ [Financials](#financials)
   + [Developers](#developers)
-  + [Founders & Coders](#founders--coders)
 + [Next steps](#next-steps)
-+ [FAQ](#faq)
++ [FAQ](#faqs)
 
 
 ## Why
@@ -26,7 +25,7 @@ alumni have expressed a ***desire*** to ***continue their learning***
   and managing the client** (*expectations*), leading to developers having to
   wear too many hats
   ([*Hugh*](https://www.linkedin.com/pub/hugh-trueger/1a/696/8a8)
-  did this for a while and F&C3 alumni considered
+  did this for a while and FAC3 alumni considered
   his position *essential* to the success of their projects)
   + Undertaking ***regular*** **code reviews**, ensuring the project is going in
   the right direction and **vouching for the quality of the code**
@@ -40,9 +39,9 @@ over the summer of 2015 it was **proposed that F&C move to
 just help alumni find external employment**.   
 This was debated by the employment sub-group and it was decided
 that this was also **problematic and not in the best long term
-interest of the school** if it could be avoided.
+interest of the school** if it could be avoided (see [#11](https://github.com/nelsonic/ateam/issues/11)).
 
-> A ***alternative solution*** is therefore ***required*** to these problems
+> An ***alternative solution*** is therefore ***required*** to these problems
 which will allow **F&C students/alumni** to ***continue learning*** (*by doing*)
 after the 16 week course while providing a ***sustainable income***
 to fund the mission of **F&C**.
@@ -63,14 +62,19 @@ For more, see [responsibilities](#responsibilities).
 + This must be a separate company from Founders & Coders CIC,
 so that F&C can focus solely on the ***mission***;
 Providing ***great technical learning***, ***free*** and ***open source***.
-+ The company will and should sit in on F&C meetings but *not*
-have the power to dictate what happens in the school.
++ The company will and should participate in F&C meetings but _not_
+have the power to _dictate_ what happens in the school.
 
 
 
 # Proposal
 
 ## Overview
+> The aim is to create a way to *simultaneously* **make F&C sustainable**
+as a project, while still maintaining its *replicability* and providing
+alumni with a *continued learning curve* where they ***learn-by-doing***
+while doing ***interesting and meaningful work*** after the 16 week course.
+
 
 After the 16 week course, students have a number of options:
 + Start their own project/adventure (*with the support of their peers*)
@@ -80,20 +84,13 @@ After the 16 week course, students have a number of options:
 
 **We believe all of these can co-exist.**
 
-This proposes that a ***commercial-focussed organisation*** is formed
-- run by [@nelsonic] and [@iteles] in the immediate term -
+This proposes that a ***commercial-focussed organisation*** is formed - run by [@nelsonic] and [@iteles] in the immediate term -
 which will take on these last two, particularly concentrating on
-**finding and managing the running of development projects for F&C graduates**.    
-*For more on the reasons why this has come about, read the
+**finding and running development projects for F&C graduates**.    
+_For more on the reasons why this has come about, read the
 ['Why?' section](#why) above and for more on the
 specific responsibilities of the organisation,
-read the ['Responsibilities' section](#responsibilities) below.*
-
-> The aim is to create a way to *simultaneously* **make F&C sustainable**
-as a project, while still maintaining its *replicability* and providing
-alumni with a *continued learning curve* where they ***learn-by-doing***
-while doing ***interesting and meaningful work*** after the 16 week course.
-
+read the ['Responsibilities' section](#responsibilities) below._
 
 ## Our Values
 
@@ -108,15 +105,15 @@ Worth highlighting here are:
 from the setup and the processes, questions raised and solutions found.
 We always [make](https://en.wikipedia.org/wiki/Maker_culture) 'out in the open'.
 We hope this **encourages everyone to contribute, ask and answer questions**.
-We're aware this is "***unconventional***", its *deliberate*.
+We're aware this is "***unconventional***"; it's *deliberate*.
 
 + ***Full transparency***. Transparent in our thought processes,
-in our decisions, in our processes and in everything, right from the [*start*](https://github.com/dwyl/start-here).
+in our decisions and in everything, right from the [*start*](https://github.com/dwyl/start-here).
 
-+ ***Continuous learning***. ~~good~~ ***great*** ~~developers~~ ***people***
++ ***Continuous learning***. ~~Good~~ ***Great*** ~~developers~~ ***people***
 realize that in the pursuit of
 [*mastery*](https://en.wikipedia.org/wiki/Mastery_learning) (*in any field*)
-they can ***never stop learning***.
+they can ***never stop learning***.   
 This isn't *just* about learning code; being *technically competent* is
 *essential* but *no longer "enough"*.
 It's about going along to client meetings and estimating tasks,
@@ -124,7 +121,7 @@ proposing projects and learning all the things you want to learn.
 We do it for ourselves and we want to set up an environment that
 provides opportunities for everyone to put in the time to do it too.
 
-+ **Keep it simple**. where ever *possible*, ***eliminate complexity***.
++ **Keep it simple**. Wherever *possible*, ***eliminate complexity***.
 
 + **Accountability for the work you do**. We're here to *help* people
 do their best work for the project **team** they choose to be in.
@@ -157,18 +154,18 @@ Ultimately we value helping everyone we come into contact with
 ### Mentoring
 
 + Ensure each developer has ***written*** (*personal*) ***goals*** and that they
-take steps towards reaching them with every project.
+take steps towards reaching them with every project
 + Always bring students into client conversations to learn how to
-interact with clients, what to expect and how to respond.
+interact with clients, what to expect and how to respond
 + Aim for people to work on projects that they want to work
 on and fit with their personal goals
 + Help direct developers' learning when advice is needed/requested
-+ Regular individual catch-ups to *understand* how they feel,
-concerns/potential improvements and celebrate achievements.
++ Regular individual catch-ups to *understand* how people feel,
+concerns/potential improvements and celebrate achievements
 + Implement a ***continuous feedback loop***
-+ Technical mentorship through code reviews.
++ Technical mentorship through code reviews
 
-**Others:**
+## Others
 + Maintain F&C's existing and future relationships with employers (those who take on F&C students as permanent employees)
 + Find employment for students who don’t want to be freelancers
 + Develop and run a corporate training offering
@@ -201,12 +198,14 @@ concerns/potential improvements and celebrate achievements.
 Calculations based on developers working 80% of the year
 (to provide a conservative estimate) suggest that at current
 cost levels (£2700 per month rounded up to £3000),
-F&C will receive enough income to break even as soon as
-there are **7 developers** working on projects.   
-*For more on the financials,
-read the ['Financials' section](#developers) below.*
+**F&C will receive enough income to break even as soon as
+there are 7 developers** working on projects.   
 
 <img width="879" alt="fc-breakeven-41-weeks-of-work-a-year" src="https://cloud.githubusercontent.com/assets/4185328/10269376/c3e44d0e-6acd-11e5-9613-1c062f0f96ef.png">
+
+If people prefer to be placed directly with employers
+and this is done through the **commercial organisation**, there will be a commission going to F&C -
+the amount is to be agreed as part of the [next steps](#next-steps).
 
 
 ### Developers
@@ -217,27 +216,13 @@ read the ['Financials' section](#developers) below.*
 
 #### Q: What can people expect to get *paid*?
 
-+ All developers will start on **£120** per day
-  (equates to £15 an hour for 8 hour days.)
++ All developers will start on **£120** per day 
+(equates to £15 an hour for 8 hour days)
 + Commission for Founders & Coders *does not* come out of developers' day rate
 + Within 4 months, developers will undergo a **peer led** day rate review
 
 + Commission and structure for bringing in clients and projects will exist and is one of the things that needs to be [researched in the coming month](#next-steps)
 
-
-### Founders & Coders
-
-+ If people prefer to be placed directly with employers
-and this is done through the **comercial organisation**,  
-there will be a commission going to F&C -
-the amount is to be agreed as part of the [next steps](#next-steps)
-
-For **freelance projects**:
-
-+ F&C will receive 10% of the *charge out rate* (not the developer day rate)
-for all alumni working on freelance projects through the new organisation
-+ Calculations suggest **F&C will break even as soon as there are just
-7 developers working on projects**
 
 
 ## Next steps
@@ -256,7 +241,7 @@ This will provide a different point of view but crucially also allow
 that is required in the immediate term.
 
 ## FAQs
-**Q:** How will the affect F&C's responsibilities
+**Q:** How will this affect F&C's responsibilities?
 
 **Q:** What will the interaction be between this organisation and F&C?
 
@@ -305,17 +290,18 @@ Especially since, if we succeed together
 (*in delivering great project results*)
 the peer-determined rates could be *considerably* more favorable.
 
-But to give you an idea, [**IBM**'s *Starting Salary* for a graduate is £29,000](https://targetjobs.co.uk/careers-advice/choosing-an-employer/320357-which-graduate-career-offers-the-best-pay)  
+But to give you an idea, [**IBM**'s *Starting Salary* for a graduate is £29,000](https://targetjobs.co.uk/careers-advice/choosing-an-employer/320357-which-graduate-career-offers-the-best-pay)
 and they don't do anything *resembling* the kind of *interesting* & *creative*
 *full-service/stack* work we expect to be doing!
 
 
 
 
-[@nelsonic]:https://github.com/nelsonic
-[@iteles]:https://github.com/iteles
-
-### Notes:
+#### Notes:
 <sup>1</sup>We *cannot* guarantee developer income beyond the initial 4 month
 term. However provided the person shows proactivity we expect to have
 enough work for 10+ people for 12 months.
+
+
+[@nelsonic]:https://github.com/nelsonic
+[@iteles]:https://github.com/iteles
