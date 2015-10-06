@@ -219,9 +219,15 @@ the amount is to be agreed as part of the [next steps](#next-steps).
 + All developers will start on **£120** per day 
 (equates to £15 an hour for 8 hour days)
 + Commission for Founders & Coders *does not* come out of developers' day rate
-+ Within 4 months, developers will undergo a **peer led** day rate review
++ Within 4 months, developers will undergo a **peer led** day rate review (*for more on this, see issue [#4](https://github.com/nelsonic/ateam/issues/4)*)
+  + Most companies like to say they raise compensation based on merit, but it's often decided by HR people who *have no real idea of what individuals are contributing to the organisation* or the quality of their work
+  + As people's skills/abilities/fluency increase over time, we need to **ensure that rewards match _effort_** and the best way to do this is to look at the contributions (code/comments/issues) each person makes to the team and *collectively* agree when to increase a person's compensation in proportion to their contribution
+  + **We expect peer feedback to be *positive* and *encouraging* and to foster a learning culture.**
 
-+ Commission and structure for bringing in clients and projects will exist and is one of the things that needs to be [researched in the coming month](#next-steps)
+
+
+
++ Commission and structure for bringing in clients and projects will exist and is one of the things that needs to be [researched in the coming month](#next-steps).
 
 
 
