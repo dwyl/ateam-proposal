@@ -101,6 +101,8 @@ we've had a
 [***clear manifesto***](https://github.com/dwyl/start-here/blob/master/manifesto.md)
 that explains ***why*** we do what we do.  
 Worth highlighting here are:
++ **Treating others the way you would like to be treated**. In *everything* we do, we follow [**The Golden Rule**](https://en.wikipedia.org/wiki/Golden_Rule)
+
 + **Open source.** We want ***every aspect*** of our organisation to be open source,
 from the setup and the processes, questions raised and solutions found.
 We always [make](https://en.wikipedia.org/wiki/Maker_culture) 'out in the open'.
@@ -126,8 +128,7 @@ provides opportunities for everyone to put in the time to do it too.
 + **Accountability for the work you do**. We're here to *help* people
 do their best work for the project **team** they choose to be in.
 
-+ **Treating others the way you would like to be treated**. In *everything* we do, we follow [**The Golden Rule**](https://en.wikipedia.org/wiki/Golden_Rule)
-
++ **People first, product second**. We recommend watching Vineet Nayeer's [short lecture on this subject](https://www.youtube.com/watch?v=6P2GV1lMtuw) if you haven't already. He's the _former_ CEO of [HCL Technologies](https://en.wikipedia.org/wiki/HCL_Technologies), an extremely interesting organisation with a [relatively flat organisational structure](http://www.forbes.com/sites/stevedenning/2013/06/20/how-to-lead-a-flat-army/).
 
 
 Ultimately we value helping everyone we come into contact with
