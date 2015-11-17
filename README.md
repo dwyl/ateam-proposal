@@ -1,5 +1,8 @@
 # A-Team
 
+**Update:** On _20th October 2015_, this proposal was [adopted](https://github.com/dwyl/ateam-proposal/issues/22#issuecomment-149047724) with 27 votes for, 1 abstention and none against.   
+During the voting process we also asked people what companies they admired and what was important to them in their developer journey. You can find the anonymised answers here: [Voting for adoption of A-team proposal - Responses PDF](https://github.com/dwyl/ateam-proposal/files/36272/Voting.for.adoption.of.A-team.proposal.Responses.-.Form.responses.pdf) (zooming required).
+
 ## Contents Guide
 + [Why?](#why)
 + [What?](#what)
